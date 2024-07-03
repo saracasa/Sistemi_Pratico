@@ -1,0 +1,11 @@
+cd /public
+mkdir sara.casadio
+[ls -l] per vedere i permessi delle cartelle
+chmod 700 sara.casadio
+
+//scarica vscode portable per linux .tar.gz x64 e copialo nella cartella /public/sara.casadio (con comando cp)
+
+tar -x -f [code-stable-x64-1718750038.tar.gz]
+./code
+
+//scarica estensione copilot, copia la directory
